@@ -1,4 +1,5 @@
 # Retail Trade Turnover
+# https://www.bfs.admin.ch/bfs/en/home/statistics/industry-services/surveys/dhu.html
 
 from pyaxis import pyaxis
 
