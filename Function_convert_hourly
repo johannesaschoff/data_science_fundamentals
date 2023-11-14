@@ -1,0 +1,5 @@
+def convert_hourly(df, column_to_convert):
+
+    df['hourly_date'] = df[column_to_convert].apply(lambda x: pd.date_range(x, x + pd.DateOffset(months=1), freq='H'))
+
+    return df.explode('hourly_date')
