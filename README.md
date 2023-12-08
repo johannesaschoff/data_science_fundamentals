@@ -36,6 +36,7 @@ The following tools and libraries were used in this project:
 - Scikit-learn
 - GeoPandas
 - Matplotlib
+- Keras
 
 ## Getting Started
 
