@@ -13,7 +13,16 @@ The dataset contains hourly pedestrian counts, weather conditions, timestamps, a
 - Timestamp: Date and time of the pedestrian count.
 - Pedestrians_count: Number of pedestrians counted.
 - Weather_condition: Description of the weather at the time of the count.
-- Other relevant features: Season, GDP, public holidays, etc.
+- Hourly traffic in Zurich
+- Hourly sunshine in Zurich
+- Retail Trade Turnover Switzerland
+- Consumer Price Index Switzerland
+- Hotel Guests in Zurich
+- Population of Zurich
+- Weekday
+- School Holidays
+- Big Events
+- Closed Stores
 
 ## Objective
 
