@@ -66,4 +66,3 @@ We'd like to thank the following individuals who have contributed to this projec
 ## Acknowledgments
 
 - Acknowledge any sources or references used in the project.
-- Credits to contributors, if any.
