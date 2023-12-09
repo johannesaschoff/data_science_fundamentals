@@ -24,9 +24,9 @@ The dataset contains hourly pedestrian counts, weather conditions, timestamps, a
 - Big Events
 - Closed Stores
 
-## Plot of the three zones in which the pedestrian flow was measured on the Bahnhofstrasse Zurich
+## Plot of the three zones in which the pedestrian flow was measured on the Bahnhofstrasse in Zurich.
 
-![Plot of the three zones in which the pedestrian flow was measured on the Bahnhofstrasse Zurich](https://github.com/johannesaschoff/data_science_fundamentals/blob/main/target_preprocessing/bahnhofstrasse_zones_plot.png?raw=true)
+![Plot of the three zones in which the pedestrian flow was measured on the Bahnhofstrasse in Zurich](https://github.com/johannesaschoff/data_science_fundamentals/blob/main/target_preprocessing/bahnhofstrasse_zones_plot.png?raw=true)
 
 
 ## Objective
