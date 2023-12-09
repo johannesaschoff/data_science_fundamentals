@@ -58,10 +58,10 @@ The following tools and libraries were used in this project:
 
 We'd like to thank the following individuals who have contributed to this project:
 
-- Anne
-- Berit
-- Richard
-- Johannes
+- Anne Bally
+- Berit Schrader
+- Richard Eden
+- Johannes Aschoff
 
 ## Acknowledgments
 
