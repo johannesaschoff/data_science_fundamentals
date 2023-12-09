@@ -8,6 +8,8 @@ The goal of this project is to develop a predictive model that estimates pedestr
 
 The dataset contains hourly pedestrian counts, weather conditions, timestamps, and other relevant information for Bahnhofstrasse Zürich. It is sourced from [https://data.stadt-zuerich.ch/dataset/hystreet_fussgaengerfrequenzen].
 
+![Plot of the three zones where the measured the pedestrians at Bahnhofstrasse Zurich](paste_the_copied_image_url_here)
+
 ### Dataset Features:
 
 - Timestamp: Date and time of the pedestrian count.
