@@ -35,7 +35,7 @@ NGOs often set up stands or initiatives to raise awareness, collect donations, o
 
 ## Model Development
 
-The predictive model will be developed using various machine learning techniques to predict pedestrian counts based on the features provided in the dataset. The model will consider the historical pedestrian data along with the weather, season, GDP, and public holiday information to make hourly predictions.
+The predictive model will be developed using various machine learning techniques to predict pedestrian counts based on the features provided in the dataset. The model will consider the historical pedestrian data along with the weather, season, CPI, and public holiday information to make hourly predictions.
 
 ## Usage
 
