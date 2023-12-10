@@ -1,4 +1,4 @@
-# Data Science Fundamentals Project
+## Data Science Fundamentals Project
 # Fundraising at the Bahnhofstrasse Zurich
 
 ## Project Overview
